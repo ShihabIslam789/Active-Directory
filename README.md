@@ -17,3 +17,7 @@ Creating this account enables me to take full advantage of the security features
  #### Code
 
  we wrote powershell script to automate the process to add users easily. users will be created based on a txt file I take and aprse through to add as users for the domain. 
+
+ ![Code](https://github.com/ShihabIslam789/Active-Directory/blob/main/Pictures/Code%20snippet.PNG)
+
+ 
